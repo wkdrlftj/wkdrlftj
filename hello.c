@@ -1,4 +1,9 @@
 #include <stdio.h>
+
+void myname(void){
+	printf("wkdrlftj!!/n");
+}
+
 int main()
 {
 	printf("hihihi World\n");
@@ -7,3 +12,4 @@ int main()
 }
 
 원격지에서 작업함!
+
