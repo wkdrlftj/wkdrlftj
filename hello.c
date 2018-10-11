@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void myname(void){
+void myname(qqq){
 	printf("wkdrlftj!!/n");
 }
 
